@@ -1,0 +1,35 @@
+---
+title: "Chris Acuff"
+image: "acuff_headshot.png"
+links:
+  - LinkedIn: "https://linkedin.com/in/cjacuff"
+  - Twitter: "https://twitter.com/cjacuff"
+  - GitHub: "https://github.com/acuff"
+  - Email: "Christopher-Acuff@utc.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dr. Christopher Acuff is an Assistant Professor of Public Administration in the Department of Political Science and Public Service at UTC. He holds a Ph.D. in Political Science from University of Tennessee at Knoxville and a Master of Public Administration from UTC. Before returning to his hometown of Chattanooga, Acuff served as a research analyst for the State of Tennessee in Nashville. His research interests focus on state and local government, urban politics, public policy, and political geography. His current research projects are focused on the impacts of city-county consolidation, factors that shape citizen voting in local referenda, developing equity indicators for municipal government, county government administration, and the socio-ecological role of greenways in urban systems. Acuff regularly teaches a number of courses focused on public administration, public policy, and American government at both the graduate and undergraduate levels. 
+
+## Education
+
+**The University of Tennessee, Knoxville** | Knoxville, TN
+
+Ph.D. in Political Science | 2017
+
+**The University of Tennessee at Chattanooga** | Chattanooga, TN
+
+M.P.A. (Local Governmment Management) | 2012
+
+**The University of Tennessee, Knoxville** | Knoxville, TN
+
+B.A. in Political Science | 2009
+
+## Experience
+
+**The University of Tennessee at Chattanooga** | Assistant Professor of Public Administration | 2018 - Present
+
+**Tennessee Bureau of Workers' Compensation** | Statistical Research Analyst | 2017 - Present
