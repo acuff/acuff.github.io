@@ -11,7 +11,9 @@ links:
   - label: Email
     url: "mailto:Christopher-Acuff@utc.edu"
 output:
-  postcards::trestles
+  postcards::trestles:
+    includes:
+      after_body: analytics.html
 ---
  
 ## Bio
